@@ -1,0 +1,1201 @@
+{
+  "name": "omakase-icons",
+  "version": "0.6.0",
+  "count": 151,
+  "styles": [
+    "stroke",
+    "solid",
+    "duotone",
+    "twotone"
+  ],
+  "corners": [
+    "rounded",
+    "sharp"
+  ],
+  "weights": [
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2
+  ],
+  "optical": {
+    "16": 2.25,
+    "20": 1.8,
+    "24": 1.5,
+    "32": 1.5,
+    "48": 1.25
+  },
+  "icons": [
+    {
+      "name": "home",
+      "component": "HomeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "search",
+      "component": "SearchIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "user",
+      "component": "UserIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "bell",
+      "component": "BellIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "calendar",
+      "component": "CalendarIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "heart",
+      "component": "HeartIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "mail",
+      "component": "MailIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "lock",
+      "component": "LockIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "trash",
+      "component": "TrashIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "message",
+      "component": "MessageIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "camera",
+      "component": "CameraIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "folder",
+      "component": "FolderIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "plus",
+      "component": "PlusIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "minus",
+      "component": "MinusIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "close",
+      "component": "CloseIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "check",
+      "component": "CheckIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevron-left",
+      "component": "ChevronLeftIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevron-right",
+      "component": "ChevronRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevron-up",
+      "component": "ChevronUpIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevron-down",
+      "component": "ChevronDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-left",
+      "component": "ArrowLeftIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-right",
+      "component": "ArrowRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "component": "ArrowUpIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "component": "ArrowDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "menu",
+      "component": "MenuIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "more",
+      "component": "MoreIcon",
+      "roles": [
+        "dot"
+      ]
+    },
+    {
+      "name": "filter",
+      "component": "FilterIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "download",
+      "component": "DownloadIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "upload",
+      "component": "UploadIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "share",
+      "component": "ShareIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "link",
+      "component": "LinkIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "edit",
+      "component": "EditIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "copy",
+      "component": "CopyIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "eye",
+      "component": "EyeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "star",
+      "component": "StarIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "component": "BookmarkIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "image",
+      "component": "ImageIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "play",
+      "component": "PlayIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "pause",
+      "component": "PauseIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "smartphone",
+      "component": "SmartphoneIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "map-pin",
+      "component": "MapPinIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "globe",
+      "component": "GlobeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "clock",
+      "component": "ClockIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "cart",
+      "component": "CartIcon",
+      "roles": [
+        "body",
+        "detail",
+        "dot"
+      ]
+    },
+    {
+      "name": "credit-card",
+      "component": "CreditCardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "info-circle",
+      "component": "InfoCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "alert-triangle",
+      "component": "AlertTriangleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "check-circle",
+      "component": "CheckCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "sliders",
+      "component": "SlidersIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "currency-aed",
+      "component": "CurrencyAedIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "settings",
+      "component": "SettingsIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "log-out",
+      "component": "LogOutIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "log-in",
+      "component": "LogInIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "refresh",
+      "component": "RefreshIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "undo",
+      "component": "UndoIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "redo",
+      "component": "RedoIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "external-link",
+      "component": "ExternalLinkIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "grid",
+      "component": "GridIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "list",
+      "component": "ListIcon",
+      "roles": [
+        "detail",
+        "dot"
+      ]
+    },
+    {
+      "name": "layers",
+      "component": "LayersIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "bar-chart",
+      "component": "BarChartIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "trending-up",
+      "component": "TrendingUpIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "pie-chart",
+      "component": "PieChartIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file",
+      "component": "FileIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file-text",
+      "component": "FileTextIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "component": "ClipboardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "inbox",
+      "component": "InboxIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "send",
+      "component": "SendIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "video",
+      "component": "VideoIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "mic",
+      "component": "MicIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "volume",
+      "component": "VolumeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "volume-off",
+      "component": "VolumeOffIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "music",
+      "component": "MusicIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "headphones",
+      "component": "HeadphonesIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "wifi",
+      "component": "WifiIcon",
+      "roles": [
+        "detail",
+        "dot"
+      ]
+    },
+    {
+      "name": "battery",
+      "component": "BatteryIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "monitor",
+      "component": "MonitorIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "laptop",
+      "component": "LaptopIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "cloud",
+      "component": "CloudIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "sun",
+      "component": "SunIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "moon",
+      "component": "MoonIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "zap",
+      "component": "ZapIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "gift",
+      "component": "GiftIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "tag",
+      "component": "TagIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "wallet",
+      "component": "WalletIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "receipt",
+      "component": "ReceiptIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "shopping-bag",
+      "component": "ShoppingBagIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "package",
+      "component": "PackageIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "users",
+      "component": "UsersIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "user-plus",
+      "component": "UserPlusIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "shield",
+      "component": "ShieldIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "key",
+      "component": "KeyIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "unlock",
+      "component": "UnlockIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "eye-off",
+      "component": "EyeOffIcon",
+      "roles": [
+        "body",
+        "detail",
+        "slash"
+      ]
+    },
+    {
+      "name": "flag",
+      "component": "FlagIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "sparkles",
+      "component": "SparklesIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "bot",
+      "component": "BotIcon",
+      "roles": [
+        "body",
+        "detail",
+        "dot"
+      ]
+    },
+    {
+      "name": "compass",
+      "component": "CompassIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "x-circle",
+      "component": "XCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "help-circle",
+      "component": "HelpCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "code",
+      "component": "CodeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "terminal",
+      "component": "TerminalIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "git-branch",
+      "component": "GitBranchIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "git-commit",
+      "component": "GitCommitIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "git-merge",
+      "component": "GitMergeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "database",
+      "component": "DatabaseIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "server",
+      "component": "ServerIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "cpu",
+      "component": "CpuIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "cloud-upload",
+      "component": "CloudUploadIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "cloud-download",
+      "component": "CloudDownloadIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "banknote",
+      "component": "BanknoteIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "coins",
+      "component": "CoinsIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "percent",
+      "component": "PercentIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "calculator",
+      "component": "CalculatorIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "currency-eur",
+      "component": "CurrencyEurIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "landmark",
+      "component": "LandmarkIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "trending-down",
+      "component": "TrendingDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "store",
+      "component": "StoreIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "truck",
+      "component": "TruckIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "barcode",
+      "component": "BarcodeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "ticket",
+      "component": "TicketIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "gem",
+      "component": "GemIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "crown",
+      "component": "CrownIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "activity",
+      "component": "ActivityIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "heart-pulse",
+      "component": "HeartPulseIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "pill",
+      "component": "PillIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "thermometer",
+      "component": "ThermometerIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "plus-square",
+      "component": "PlusSquareIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "at-sign",
+      "component": "AtSignIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "hash",
+      "component": "HashIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "paperclip",
+      "component": "PaperclipIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "mail-open",
+      "component": "MailOpenIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "calendar-check",
+      "component": "CalendarCheckIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "calendar-plus",
+      "component": "CalendarPlusIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "map",
+      "component": "MapIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "navigation",
+      "component": "NavigationIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "target",
+      "component": "TargetIcon",
+      "roles": [
+        "body",
+        "detail",
+        "dot"
+      ]
+    },
+    {
+      "name": "maximize",
+      "component": "MaximizeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "minimize",
+      "component": "MinimizeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "zoom-in",
+      "component": "ZoomInIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "zoom-out",
+      "component": "ZoomOutIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-up-down",
+      "component": "ArrowUpDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "plus-circle",
+      "component": "PlusCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "minus-circle",
+      "component": "MinusCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "toggle-left",
+      "component": "ToggleLeftIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "bell-off",
+      "component": "BellOffIcon",
+      "roles": [
+        "body",
+        "detail",
+        "slash"
+      ]
+    },
+    {
+      "name": "mic-off",
+      "component": "MicOffIcon",
+      "roles": [
+        "body",
+        "detail",
+        "slash"
+      ]
+    },
+    {
+      "name": "video-off",
+      "component": "VideoOffIcon",
+      "roles": [
+        "body",
+        "slash"
+      ]
+    },
+    {
+      "name": "wifi-off",
+      "component": "WifiOffIcon",
+      "roles": [
+        "detail",
+        "dot",
+        "slash"
+      ]
+    },
+    {
+      "name": "cloud-off",
+      "component": "CloudOffIcon",
+      "roles": [
+        "body",
+        "slash"
+      ]
+    },
+    {
+      "name": "umbrella",
+      "component": "UmbrellaIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "keywords": [
+        "umbrella",
+        "rain",
+        "weather",
+        "protection",
+        "insurance",
+        "shelter"
+      ]
+    }
+  ]
+}

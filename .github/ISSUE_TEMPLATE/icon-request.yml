@@ -1,0 +1,24 @@
+name: Request an icon
+description: Ask for an icon that is missing from the set
+title: "Icon request: "
+labels: ["icon request"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Icon name
+      description: What you would search for, such as "umbrella" or "credit card".
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: Where would you use it?
+      description: The screen or feature it is for. This helps us draw the right metaphor.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Anything it should look like?
+      description: Optional. A description or a link to a reference.
