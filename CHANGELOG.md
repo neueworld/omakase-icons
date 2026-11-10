@@ -2,6 +2,26 @@
 
 Also at https://icons.oma-kase.com/changelog
 
+## 0.6.1 (2026-11-10): A public home on GitHub, and icon requests
+
+No icon changes in this release.
+
+## The icons are on GitHub
+
+[github.com/neueworld/omakase-icons](https://github.com/neueworld/omakase-icons) holds every icon as an SVG file, the icon list, the MIT licence and this changelog. The repository link on each npm package now leads there.
+
+![The Omakase Icons repository on GitHub](https://icons.oma-kase.com/changelog/0.6.1/github.png)
+
+## Request an icon
+
+Missing an icon? [Request it](https://github.com/neueworld/omakase-icons/issues/new?template=icon-request.yml). Tell us the name and where you'd use it. Requests decide what we draw next. There is a second form for reporting an icon that looks wrong.
+
+You'll also find a "request this icon" link on the site when a search finds nothing.
+
+## Corrected READMEs
+
+The package READMEs still described the old default stroke weights. They now match what 0.6.0 does: 2.25 at 16px, 1.8 at 20px and 1.5 at 24px.
+
 ## 0.6.0 (2026-11-10): Sharper at small sizes
 
 This release is about how the icons look on screen, most of all at 16px.

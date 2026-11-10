@@ -2,9 +2,9 @@
 
 151 free icons, each drawn once and generated in every style: stroke, solid, duotone and two-tone, with rounded or sharp corners, at any stroke weight. MIT licensed.
 
-**Browse, search and copy: [icons.oma-kase.com](https://icons.oma-kase.com)**
+**[Browse all icons](https://icons.oma-kase.com/icons)** · **[Request an icon](https://github.com/neueworld/omakase-icons/issues/new?template=icon-request.yml)** · **[Report a problem](https://github.com/neueworld/omakase-icons/issues/new?template=bug.yml)**
 
-<img src="svg/stroke/rounded/home.svg" width="28" height="28" alt="home"> <img src="svg/stroke/rounded/search.svg" width="28" height="28" alt="search"> <img src="svg/stroke/rounded/bell.svg" width="28" height="28" alt="bell"> <img src="svg/stroke/rounded/heart.svg" width="28" height="28" alt="heart"> <img src="svg/stroke/rounded/camera.svg" width="28" height="28" alt="camera"> <img src="svg/stroke/rounded/settings.svg" width="28" height="28" alt="settings"> <img src="svg/stroke/rounded/umbrella.svg" width="28" height="28" alt="umbrella"> <img src="svg/stroke/rounded/compass.svg" width="28" height="28" alt="compass">
+[![Omakase Icons: one drawing, every style](https://icons.oma-kase.com/opengraph-image)](https://icons.oma-kase.com)
 
 ## Install
 
@@ -51,7 +51,8 @@ The [`svg/`](svg) folder has every icon as a standalone file, by style and corne
 
 ## Request an icon or report a problem
 
-[Open an issue](https://github.com/neueworld/omakase-icons/issues/new/choose). Requests decide what gets drawn next.
+- **[Request an icon](https://github.com/neueworld/omakase-icons/issues/new?template=icon-request.yml)** that is missing from the set. Requests decide what gets drawn next.
+- **[Report a problem](https://github.com/neueworld/omakase-icons/issues/new?template=bug.yml)** with an icon that looks wrong or does not render.
 
 ## What's in this repository
 
@@ -61,4 +62,4 @@ This repository holds the published icons: the SVG files, the icon list, the lic
 
 [MIT](LICENSE). Free for personal and commercial use, with no attribution required in your product.
 
-Version 0.6.0. Made by [Omakase](https://oma-kase.com).
+Version 0.6.1. Made by [Omakase](https://oma-kase.com).
