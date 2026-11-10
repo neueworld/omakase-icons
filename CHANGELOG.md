@@ -2,6 +2,34 @@
 
 Also at https://icons.oma-kase.com/changelog
 
+## 0.7.0 (2026-11-10): The Saudi riyal, a tighter euro and right-to-left support
+
+## Saudi riyal
+
+`currency-sar` joins the dirham, dollar, euro, pound, rupee and yen. Search for "riyal" or "sar" to find it.
+
+Currency icons are our interpretation, drawn to match the rest of the set. They are not the official symbols. Where you show a price or an amount, follow the issuing authority's guidelines for the symbol.
+
+## A tighter euro
+
+The euro was too wide and its two bars sat too far apart. The C is now rounder, the bars are closer together and the upper bar is slightly longer, as in the real symbol. The name is unchanged, so nothing in your code needs to change.
+
+## Right-to-left layouts
+
+In Arabic, Hebrew, Persian and Urdu interfaces, an icon that points along the reading direction has to point the other way. Set `rtl` and the icon is mirrored only if it should be:
+
+```tsx
+<ArrowRightIcon rtl />
+```
+
+```js
+toSvg(icons['arrow-right'], { rtl: true })
+```
+
+16 icons are mirrored: the left and right arrows and chevrons, undo and redo, log in and log out, send, external link, list, file text, message, both volume icons and the truck. Everything else stays as drawn, so it is safe to set `rtl` on every icon in a right-to-left layout. Clocks, checkmarks, media controls and currency symbols never flip.
+
+The option works the same way in the React, Vue and Svelte packages and in `toSvg`.
+
 ## 0.6.1 (2026-11-10): A public home on GitHub, and icon requests
 
 No icon changes in this release.

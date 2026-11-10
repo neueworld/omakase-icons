@@ -1,7 +1,7 @@
 {
   "name": "omakase-icons",
-  "version": "0.6.1",
-  "count": 151,
+  "version": "0.7.0",
+  "count": 152,
   "styles": [
     "stroke",
     "solid",
@@ -103,7 +103,8 @@
       "roles": [
         "body",
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "camera",
@@ -154,14 +155,16 @@
       "component": "ChevronLeftIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "chevron-right",
       "component": "ChevronRightIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "chevron-up",
@@ -182,14 +185,16 @@
       "component": "ArrowLeftIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "arrow-right",
       "component": "ArrowRightIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "arrow-up",
@@ -415,14 +420,16 @@
       "component": "LogOutIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "log-in",
       "component": "LogInIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "refresh",
@@ -436,21 +443,24 @@
       "component": "UndoIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "redo",
       "component": "RedoIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "external-link",
       "component": "ExternalLinkIcon",
       "roles": [
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "grid",
@@ -465,7 +475,8 @@
       "roles": [
         "detail",
         "dot"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "layers",
@@ -511,7 +522,8 @@
       "roles": [
         "body",
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "clipboard",
@@ -535,7 +547,8 @@
       "roles": [
         "body",
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "video",
@@ -558,7 +571,8 @@
       "roles": [
         "body",
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "volume-off",
@@ -566,7 +580,8 @@
       "roles": [
         "body",
         "detail"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "music",
@@ -902,6 +917,13 @@
       ]
     },
     {
+      "name": "currency-sar",
+      "component": "CurrencySarIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
       "name": "currency-eur",
       "component": "CurrencyEurIcon",
       "roles": [
@@ -936,7 +958,8 @@
       "component": "TruckIcon",
       "roles": [
         "body"
-      ]
+      ],
+      "rtl": true
     },
     {
       "name": "barcode",
