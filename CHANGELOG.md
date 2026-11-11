@@ -2,6 +2,30 @@
 
 Also at https://icons.oma-kase.com/changelog
 
+## 0.8.0 (2026-11-11): 42 new icons for Arabic, AI and everyday product screens
+
+## Arabic and English, side by side
+
+`translate-ar-en` and `translate-en-ar` show the direction of a translation with the Arabic letter ain and a Latin A. `languages` is the pair without an arrow, for a language switcher.
+
+`text-rtl` and `text-ltr` set the direction of a paragraph. `align-left`, `align-center` and `align-right` set its alignment. None of these is mirrored by the `rtl` option, because each one names a fixed side. `keyboard` and `type` complete the group.
+
+## AI product screens
+
+`message-sparkle`, `image-sparkle` and `mic-sparkle` mark chat, image and voice features that use AI. `brain`, `wand`, `workflow` and `plug` cover reasoning, generation, agents and integrations. `thumbs-up`, `thumbs-down` and `stop-circle` are for rating a reply and stopping one.
+
+## Payments and identity
+
+`qr-code`, `scan`, `card-tap` and `contactless` for paying. `fingerprint` and `id-card` for proving who you are. `scooter` for delivery and `fuel` for the station.
+
+## Everyday basics
+
+`phone`, `save`, `printer`, `book`, `briefcase`, `building`, `car`, `plane`, `power`, `pin`, `smile`, `history`, `sort` and `columns`.
+
+## Right-to-left
+
+Three of the new icons are mirrored when you set `rtl`: `message-sparkle`, `scooter` and `sort`. That brings the mirrored list to 19.
+
 ## 0.7.0 (2026-11-10): The Saudi riyal, a tighter euro and right-to-left support
 
 ## Saudi riyal

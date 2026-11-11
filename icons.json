@@ -1,7 +1,7 @@
 {
   "name": "omakase-icons",
-  "version": "0.7.0",
-  "count": 152,
+  "version": "0.8.0",
+  "count": 194,
   "styles": [
     "stroke",
     "solid",
@@ -1202,6 +1202,345 @@
       "roles": [
         "body",
         "slash"
+      ]
+    },
+    {
+      "name": "languages",
+      "component": "LanguagesIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "text-rtl",
+      "component": "TextRtlIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "text-ltr",
+      "component": "TextLtrIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "align-left",
+      "component": "AlignLeftIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "align-right",
+      "component": "AlignRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "align-center",
+      "component": "AlignCenterIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "keyboard",
+      "component": "KeyboardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "type",
+      "component": "TypeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "brain",
+      "component": "BrainIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "wand",
+      "component": "WandIcon",
+      "roles": [
+        "detail",
+        "body",
+        "dot"
+      ]
+    },
+    {
+      "name": "message-sparkle",
+      "component": "MessageSparkleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "image-sparkle",
+      "component": "ImageSparkleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "mic-sparkle",
+      "component": "MicSparkleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "workflow",
+      "component": "WorkflowIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "plug",
+      "component": "PlugIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "thumbs-up",
+      "component": "ThumbsUpIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "thumbs-down",
+      "component": "ThumbsDownIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "stop-circle",
+      "component": "StopCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "qr-code",
+      "component": "QrCodeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "scan",
+      "component": "ScanIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "fingerprint",
+      "component": "FingerprintIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "id-card",
+      "component": "IdCardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "scooter",
+      "component": "ScooterIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "fuel",
+      "component": "FuelIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "card-tap",
+      "component": "CardTapIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "contactless",
+      "component": "ContactlessIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "phone",
+      "component": "PhoneIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "save",
+      "component": "SaveIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "printer",
+      "component": "PrinterIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "book",
+      "component": "BookIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "briefcase",
+      "component": "BriefcaseIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "building",
+      "component": "BuildingIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "car",
+      "component": "CarIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "plane",
+      "component": "PlaneIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "power",
+      "component": "PowerIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "pin",
+      "component": "PinIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "smile",
+      "component": "SmileIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "history",
+      "component": "HistoryIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "sort",
+      "component": "SortIcon",
+      "roles": [
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "columns",
+      "component": "ColumnsIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "translate-ar-en",
+      "component": "TranslateArEnIcon",
+      "roles": [
+        "detail"
+      ],
+      "keywords": [
+        "translate",
+        "translation",
+        "arabic",
+        "english",
+        "language",
+        "localize"
+      ]
+    },
+    {
+      "name": "translate-en-ar",
+      "component": "TranslateEnArIcon",
+      "roles": [
+        "detail"
+      ],
+      "keywords": [
+        "translate",
+        "translation",
+        "english",
+        "arabic",
+        "language",
+        "localize"
       ]
     },
     {
