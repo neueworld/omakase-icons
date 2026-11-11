@@ -4,6 +4,7 @@
 [![npm](https://img.shields.io/npm/v/@uv-foundry/icons-react?label=%40uv-foundry%2Ficons-react)](https://www.npmjs.com/package/@uv-foundry/icons-react)
 [![MCP server](https://img.shields.io/badge/MCP-icons.oma--kase.com%2Fmcp-black)](https://icons.oma-kase.com/mcp-server)
 [![Omakase Icons MCP connector on Glama](https://glama.ai/mcp/connectors/com.oma-kase/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.oma-kase/icons)
+[![mcptry](https://mcptry.com/badge/com.oma-kase/icons)](https://mcptry.com/servers/com.oma-kase/icons)
 
 152 free icons, each drawn once and generated in every style: stroke, solid, duotone and two-tone, with rounded or sharp corners, at any stroke weight. MIT licensed.
 
