@@ -8,11 +8,29 @@
     "url": "https://github.com/neueworld/omakase-icons",
     "source": "github"
   },
-  "version": "0.7.0",
+  "version": "0.7.1",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://icons.oma-kase.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://icons.oma-kase.com/icon-light-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ],
+      "theme": "light"
+    },
+    {
+      "src": "https://icons.oma-kase.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ],
+      "theme": "dark"
     }
   ]
 }
