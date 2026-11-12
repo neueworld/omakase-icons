@@ -2,6 +2,52 @@
 
 Also at https://icons.oma-kase.com/changelog
 
+## 0.9.0 (2026-11-12): 57 of the most-used icons, and four more currencies
+
+## Chosen by what projects use
+
+We sampled public code on GitHub, about 4,700 projects that import Lucide and 2,000 that import Heroicons, and counted how many projects use each icon. Then we drew the most-used ones we did not have. The spinner alone appeared in 778 of them.
+
+## Status and feedback
+
+`loader` is a three-quarter ring for loading states. Spin it with CSS:
+
+```tsx
+<LoaderIcon className="animate-spin" />
+```
+
+`alert-circle`, `shield-alert`, `badge-check`, `ban`, `check-square`, `search-x` for an empty search, and `play-circle` and `pause-circle`.
+
+## Layout and data
+
+`layout-dashboard`, `panel-left` for a sidebar, `table`, `line-chart`, `gauge`, `list-checks` and `route`. For controls: `chevrons-up-down` for a select, `more-vertical` for a menu, `grip-vertical` for a drag handle and `mouse-pointer`.
+
+## Arrows and shapes
+
+`arrow-up-right`, `arrow-down-right`, `arrow-left-right`, `rotate-ccw`, `circle` and `square`.
+
+## Files, people and messages
+
+`file-check`, `file-code`, `folder-open`, `clipboard-check`, `archive` and `book-open`. `user-check`, `user-circle`, `message-circle`, `megaphone` and `radio`.
+
+## Four more currencies
+
+`currency-usd`, `currency-gbp`, `currency-inr` and `currency-jpy` join the dirham, the riyal and the euro. Search for "dollar", "pound", "rupee" or "yen".
+
+Currency icons are our interpretation, drawn to match the rest of the set. They are not the official symbols. Where you show a price or an amount, follow the issuing authority's guidelines for the symbol.
+
+## Objects
+
+`trophy`, `award`, `graduation-cap`, `palette`, `lightbulb`, `rocket`, `wrench`, `flame`, `leaf`, `droplet`, `scale`, `film`, `timer`, `coffee`, `dumbbell` and `flask`.
+
+## Search knows other libraries' names
+
+Search on the site and in the MCP server now finds an icon by the name other sets give it. "shield-check" finds `shield`, "trash-2" finds `trash`, "magnifying-glass" finds `search` and "x-mark" finds `close`. An AI coding tool that asks for a Lucide or Heroicons name gets the matching icon.
+
+## Right-to-left
+
+Four of the new icons are mirrored when you set `rtl`: `message-circle`, `megaphone`, `list-checks` and `panel-left`. That brings the mirrored list to 23.
+
 ## 0.8.0 (2026-11-11): 42 new icons for Arabic, AI and everyday product screens
 
 ## Arabic and English, side by side
@@ -30,7 +76,7 @@ Three of the new icons are mirrored when you set `rtl`: `message-sparkle`, `scoo
 
 ## Saudi riyal
 
-`currency-sar` joins the dirham, dollar, euro, pound, rupee and yen. Search for "riyal" or "sar" to find it.
+`currency-sar` joins the dirham and the euro. Search for "riyal" or "sar" to find it.
 
 Currency icons are our interpretation, drawn to match the rest of the set. They are not the official symbols. Where you show a price or an amount, follow the issuing authority's guidelines for the symbol.
 

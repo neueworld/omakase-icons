@@ -1,7 +1,7 @@
 {
   "name": "omakase-icons",
-  "version": "0.8.0",
-  "count": 194,
+  "version": "0.9.0",
+  "count": 251,
   "styles": [
     "stroke",
     "solid",
@@ -1511,6 +1511,443 @@
       "roles": [
         "body",
         "detail"
+      ]
+    },
+    {
+      "name": "loader",
+      "component": "LoaderIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "alert-circle",
+      "component": "AlertCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "shield-alert",
+      "component": "ShieldAlertIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "badge-check",
+      "component": "BadgeCheckIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "ban",
+      "component": "BanIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "check-square",
+      "component": "CheckSquareIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "play-circle",
+      "component": "PlayCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "pause-circle",
+      "component": "PauseCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "circle",
+      "component": "CircleIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "square",
+      "component": "SquareIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "arrow-up-right",
+      "component": "ArrowUpRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-down-right",
+      "component": "ArrowDownRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-left-right",
+      "component": "ArrowLeftRightIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevrons-up-down",
+      "component": "ChevronsUpDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "rotate-ccw",
+      "component": "RotateCcwIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "more-vertical",
+      "component": "MoreVerticalIcon",
+      "roles": [
+        "dot"
+      ]
+    },
+    {
+      "name": "grip-vertical",
+      "component": "GripVerticalIcon",
+      "roles": [
+        "dot"
+      ]
+    },
+    {
+      "name": "mouse-pointer",
+      "component": "MousePointerIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "layout-dashboard",
+      "component": "LayoutDashboardIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "panel-left",
+      "component": "PanelLeftIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "table",
+      "component": "TableIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "line-chart",
+      "component": "LineChartIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "gauge",
+      "component": "GaugeIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "list-checks",
+      "component": "ListChecksIcon",
+      "roles": [
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "route",
+      "component": "RouteIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file-check",
+      "component": "FileCheckIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file-code",
+      "component": "FileCodeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "folder-open",
+      "component": "FolderOpenIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "clipboard-check",
+      "component": "ClipboardCheckIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "archive",
+      "component": "ArchiveIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "book-open",
+      "component": "BookOpenIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "user-check",
+      "component": "UserCheckIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "user-circle",
+      "component": "UserCircleIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "message-circle",
+      "component": "MessageCircleIcon",
+      "roles": [
+        "body"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "megaphone",
+      "component": "MegaphoneIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "radio",
+      "component": "RadioIcon",
+      "roles": [
+        "dot",
+        "detail"
+      ]
+    },
+    {
+      "name": "currency-usd",
+      "component": "CurrencyUsdIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "currency-gbp",
+      "component": "CurrencyGbpIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "currency-inr",
+      "component": "CurrencyInrIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "currency-jpy",
+      "component": "CurrencyJpyIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "trophy",
+      "component": "TrophyIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "award",
+      "component": "AwardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "graduation-cap",
+      "component": "GraduationCapIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "palette",
+      "component": "PaletteIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "lightbulb",
+      "component": "LightbulbIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "rocket",
+      "component": "RocketIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "wrench",
+      "component": "WrenchIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "flame",
+      "component": "FlameIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "leaf",
+      "component": "LeafIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "droplet",
+      "component": "DropletIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "scale",
+      "component": "ScaleIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "film",
+      "component": "FilmIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "timer",
+      "component": "TimerIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "search-x",
+      "component": "SearchXIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "coffee",
+      "component": "CoffeeIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "dumbbell",
+      "component": "DumbbellIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "flask",
+      "component": "FlaskIcon",
+      "roles": [
+        "detail",
+        "body"
       ]
     },
     {
