@@ -2,6 +2,35 @@
 
 Also at https://icons.oma-kase.com/changelog
 
+## 0.10.0 (2026-11-13): 46 more icons that complete the families
+
+## Families, completed
+
+A set feels unfinished when it has one of a pair and not the other. This release fills those in.
+
+- Chevrons: `chevrons-left`, `chevrons-right`, `chevrons-up` and `chevrons-down` for first and last page, and for collapsing a panel.
+- Arrows: `arrow-up-left` and `arrow-down-left` join the two diagonals from 0.9.0. `move` and `shuffle` are new.
+- Media: `skip-forward` and `skip-back`.
+- Text editing: `bold`, `italic`, `underline`, `quote` and `list-ordered`.
+- People: `user-minus` and `user-x` join `user-plus` and `user-check`.
+- Files: `folder-plus`, `file-plus`, `file-search`, `calendar-clock` and `sticky-note`.
+
+## Status and faces
+
+`alert-octagon` for a blocking error, `check-check` for "read" or "all done", `signal` and `crosshair`. `frown` and `meh` join `smile`, so a rating can show all three.
+
+## Product screens
+
+`messages`, `kanban`, `app-window`, `presentation`, `command` and `hexagon`.
+
+## Objects
+
+`utensils`, `gamepad`, `library`, `newspaper`, `sprout`, `wind`, `waves`, `hard-drive`, `tv`, `scissors`, `ruler` and `mountain`.
+
+## Right-to-left
+
+Four of the new icons are mirrored when you set `rtl`: `chevrons-left`, `chevrons-right`, `messages` and `list-ordered`. That brings the mirrored list to 27. `skip-forward` and `skip-back` are media controls, so they stay as drawn.
+
 ## 0.9.0 (2026-11-12): 57 of the most-used icons, and four more currencies
 
 ## Chosen by what projects use

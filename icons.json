@@ -1,7 +1,7 @@
 {
   "name": "omakase-icons",
-  "version": "0.9.0",
-  "count": 251,
+  "version": "0.10.0",
+  "count": 297,
   "styles": [
     "stroke",
     "solid",
@@ -1947,6 +1947,357 @@
       "component": "FlaskIcon",
       "roles": [
         "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "chevrons-left",
+      "component": "ChevronsLeftIcon",
+      "roles": [
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "chevrons-right",
+      "component": "ChevronsRightIcon",
+      "roles": [
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "chevrons-up",
+      "component": "ChevronsUpIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "chevrons-down",
+      "component": "ChevronsDownIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-up-left",
+      "component": "ArrowUpLeftIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "arrow-down-left",
+      "component": "ArrowDownLeftIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "move",
+      "component": "MoveIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "shuffle",
+      "component": "ShuffleIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "skip-forward",
+      "component": "SkipForwardIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "skip-back",
+      "component": "SkipBackIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "bold",
+      "component": "BoldIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "italic",
+      "component": "ItalicIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "underline",
+      "component": "UnderlineIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "quote",
+      "component": "QuoteIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "list-ordered",
+      "component": "ListOrderedIcon",
+      "roles": [
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "check-check",
+      "component": "CheckCheckIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "user-minus",
+      "component": "UserMinusIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "user-x",
+      "component": "UserXIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "folder-plus",
+      "component": "FolderPlusIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file-plus",
+      "component": "FilePlusIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "file-search",
+      "component": "FileSearchIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "calendar-clock",
+      "component": "CalendarClockIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "sticky-note",
+      "component": "StickyNoteIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "alert-octagon",
+      "component": "AlertOctagonIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "frown",
+      "component": "FrownIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "meh",
+      "component": "MehIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "crosshair",
+      "component": "CrosshairIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "signal",
+      "component": "SignalIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "messages",
+      "component": "MessagesIcon",
+      "roles": [
+        "body",
+        "detail"
+      ],
+      "rtl": true
+    },
+    {
+      "name": "kanban",
+      "component": "KanbanIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "app-window",
+      "component": "AppWindowIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "presentation",
+      "component": "PresentationIcon",
+      "roles": [
+        "detail",
+        "body"
+      ]
+    },
+    {
+      "name": "command",
+      "component": "CommandIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "hexagon",
+      "component": "HexagonIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "utensils",
+      "component": "UtensilsIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "gamepad",
+      "component": "GamepadIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "library",
+      "component": "LibraryIcon",
+      "roles": [
+        "body"
+      ]
+    },
+    {
+      "name": "newspaper",
+      "component": "NewspaperIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "sprout",
+      "component": "SproutIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "wind",
+      "component": "WindIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "waves",
+      "component": "WavesIcon",
+      "roles": [
+        "detail"
+      ]
+    },
+    {
+      "name": "hard-drive",
+      "component": "HardDriveIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "tv",
+      "component": "TvIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "scissors",
+      "component": "ScissorsIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "ruler",
+      "component": "RulerIcon",
+      "roles": [
+        "body",
+        "detail"
+      ]
+    },
+    {
+      "name": "mountain",
+      "component": "MountainIcon",
+      "roles": [
         "body"
       ]
     },
